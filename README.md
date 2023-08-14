@@ -70,7 +70,3 @@ in the dialogue box.
 # Conclusion
 
 Hence successfully built a human emotion recognition model using Convolutional Neural Network. The trained model was used to categorise the emotions in real-time after we first defined the network and trained it to be capable of classifying the proper emotion. It provides good accuracy of approx. 60%. After designing a network that is capable of classifying the emotions, we use OpenCV for the detection of the faces and then pass it for prediction. 
-
-# Team Members
-
-<img width="949" alt="image" src="https://user-images.githubusercontent.com/90834830/182678211-a21549ed-a425-42f0-a998-5b7a1e62b2c5.png">
